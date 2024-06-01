@@ -3,7 +3,7 @@ Trivial Triumph is an interactive trivial quiz application about animals, films,
 
 ## Running the application
 To run this application, follow these steps:
-1. Download this project at https://github.com/KhilfiKhairulAmin/uscs23-trivial-triumph/releases/tag/v-1.0.0
+1. Download this project at 
 2. Open the terminal on your system.
 3. Navigate to the directory containing the project.
 4. Make sure Python3 is installed on your system. No external library is required to run the application.
